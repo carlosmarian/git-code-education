@@ -1,2 +1,4 @@
 <?php phpinfo();?>
 <?="Teste";?>
+
+<? echo "Novo teste"?>
