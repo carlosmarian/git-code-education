@@ -1,5 +1,5 @@
 #Repositório de testes do curso de Git da Code.Education 
-
+V: 0.1.1  
 ##Primeira parte
  * Criar repositório local  
    `git init`  
